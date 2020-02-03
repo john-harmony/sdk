@@ -28,15 +28,15 @@ python3 -m http.server 8000
 ```
 View the documenation generated at [http://localhost:8000](http://localhost:8000)
 
-http://localhost:8000/core/index.html
-http://localhost:8000/core/classes/_src_blockchain_.blockchain.html
-http://localhost:8000/account/index.html
-http://localhost:8000/contract/index.html
-http://localhost:8000/crypto/index.html
-http://localhost:8000/network/index.html
-http://localhost:8000/staking/index.html
-http://localhost:8000/transaction/index.html
-http://localhost:8000/utils/index.html
+* http://localhost:8000/core/index.html
+* http://localhost:8000/core/classes/_src_blockchain_.blockchain.html
+* http://localhost:8000/account/index.html
+* http://localhost:8000/contract/index.html
+* http://localhost:8000/crypto/index.html
+* http://localhost:8000/network/index.html
+* http://localhost:8000/staking/index.html
+* http://localhost:8000/transaction/index.html
+* http://localhost:8000/utils/index.html
 
 
 Compare it to the quality of the [documentation for typedoc itself](https://typedoc.org/api/index.html)
